@@ -20,7 +20,7 @@ Se ha optimizado una versión alternativa para su uso en Google Colab. Como ento
 
 # Tutorial
 
-El flujo de trabajo de esta herramienta se demuestra usando como ejemplo la Cuenca del Ulua, en Honduras, después del paso del ciclón tropical Eta con datos Sentinel-1 del 11 de noviembre de 2020. [Haga clic aquí](https://youtu.be/TYm7hxg3SHg) para ver el tutorial.
+El flujo de trabajo de esta herramienta se aplica como ejemplo en la Cuenca del Ulua, en Honduras, después del paso del ciclón tropical Eta con datos Sentinel-1 del 11 de noviembre de 2020. [Haga clic aquí](https://youtu.be/TYm7hxg3SHg) para ver el tutorial.
 
 <p align="center"> <img src=resources/tutorial.gif width="800"> </p>
 
