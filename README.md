@@ -20,10 +20,10 @@ Se ha optimizado una versión alternativa para su uso en Google Colab. Como ento
 
 # Tutorial
 
-The tool's workflow is demonstrated using the example of the Ulua Basin, Honduras, after the tropical cyclone Eta with Sentinel-1 data from November 11, 2020. [Click here](https://youtu.be/TYm7hxg3SHg) to see the full tutorial.
+El flujo de trabajo de esta herramienta se demuestra usando como ejemplo la Cuenca del Ulua, en Honduras, después del paso del ciclón tropical Eta con datos Sentinel-1 del 11 de noviembre de 2020. [Haga clic aquí](https://youtu.be/TYm7hxg3SHg) para ver el tutorial.
 
 <p align="center"> <img src=resources/tutorial.gif width="800"> </p>
 
-*This tool was created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).*  <br />
+* Esta herramienta se creó para respaldar el [Portal de conocimientos de ONU-SPIDER](http://www.un-spider.org/). * <br />
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
