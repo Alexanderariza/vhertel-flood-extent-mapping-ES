@@ -1,6 +1,6 @@
 <p><center> <img src="resources/header.png" width="1000"/> </p></center>
 
-# Práctica recomendada para el mapeo de inundaciones en imágenes de radar Sentinel-1
+# Práctica recomendada para el mapeo de inundaciones mediante imágenes de radar Sentinel-1
 
 <p><center> <img src="resources/example.png" width="1000"/> </p></center>
 
@@ -12,7 +12,7 @@ Este cuaderno de [Jupyter Notebook](https://github.com/vhertel/flood-extent-mapp
 
 <p><center> <img src="resources/english/chart_readme.png" width="1000"/> </p></center>
 
-An alternative version has been optimized for the use with Google Colab. As a cloud computing-based environment for Jupyter Notebooks, it takes advantage of external technical resources and thus allows this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. This version can directly be accessed and used by clicking the icon below. <br />
+Se ha optimizado una versión alternativa para su uso en Google Colab. Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Se puede acceder y utilizar esta versión directamente haciendo clic en el icono de abajo. <br />
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/flood-extent-mapping/blob/main/colab/flood-extent-mapping-colab.ipynb)
 
