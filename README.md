@@ -14,7 +14,7 @@ Este cuaderno de [Jupyter Notebook](https://github.com/vhertel/flood-extent-mapp
 
 Se ha optimizado una versión alternativa para su uso en Google Colab. Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Se puede acceder y utilizar esta versión directamente haciendo clic en el icono de abajo. <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/flood-extent-mapping/blob/main/colab/flood-extent-mapping-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/flood-extent-mapping/blob/main/colab/flood-extent-mapping-colab-ES.ipynb)
 
 ***
 
