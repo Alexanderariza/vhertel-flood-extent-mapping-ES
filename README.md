@@ -27,3 +27,7 @@ El flujo de trabajo de esta herramienta se aplica como ejemplo en la Cuenca del 
 * Esta herramienta se creó para respaldar el [Portal de conocimientos de ONU-SPIDER](http://www.un-spider.org/). * <br />
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+# Aviso legal
+
+<i>"No se garantiza que la representación y el uso de los límites, los nombres geográficos y los datos conexos que figuran en los mapas estén exentos de errores ni que impliquen necesariamente el respaldo o la aceptación oficial de las Naciones Unidas."</i>
